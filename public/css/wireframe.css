@@ -1,0 +1,43 @@
+/* WIREFRAME STYLES */
+.box {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.wf-row {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  margin-bottom: 25px;
+}
+.wf-box {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #eaeaea;
+}
+.wf-box-sub {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #f8f8f8;
+  outline: 1px solid #fff;
+}
+.wf-text {
+  color: #ddd;
+  letter-spacing: -0.13em;
+  word-spacing: -0.2em;
+}
+.wf-label {
+  padding: 0 2px 2px;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: "Helvetica Neue", sans-serif;
+  color: #999;
+  background-color: #eeeeff;
+}

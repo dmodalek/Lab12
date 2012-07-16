@@ -1,0 +1,11 @@
+{
+	"name": "lab12",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "2.x",
+		"less": "*",
+		"connect": "2.x",
+		"hbs": "*"
+	}
+}
